@@ -1,2 +1,2 @@
-# ALL-doc
-ALL document
+# Initial page
+
